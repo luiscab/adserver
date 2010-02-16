@@ -1,0 +1,13 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 100% helvetica, arial, sans-serif;
+	line-height: 1.2;
+	color: #1d5ab2;
+	width: 658px;
+	background: #fff; 
+	margin: 0 auto;
+	padding: 30px 0 0 0;
+	}
