@@ -2,7 +2,7 @@
 require 'rubygems'
 require 'sinatra'
 # Database and ORM
-requre 'sqlite3'
+require 'sqlite3'
 require 'db/datamapper'
 # A VERY Basic Authorization Module
 require 'lib/authorization'
