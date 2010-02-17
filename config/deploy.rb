@@ -1,6 +1,6 @@
 set :application, "adserver"
 set :deploy_to, "/var/www/sites/#{application}"
-set :repository, "adserver_on_sinatra"
+set :repository, "adserver"
 set :branch, "master"
 set :user, "deploy"
 
